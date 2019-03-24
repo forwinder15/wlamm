@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "Learn Diesels", // <title> ending for posts and pages
   siteDescription:
     "A website for Learning how to become a diesel mechanic and common questions when learning",
-  siteUrl: "",
+  siteUrl: "https://determined-payne-e179a1.netlify.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
