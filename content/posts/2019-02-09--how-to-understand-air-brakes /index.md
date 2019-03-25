@@ -1,11 +1,11 @@
 ---
-title: I am so clever that sometimes I don't understand a single word of what I am saying
-category: "testimonies"
-cover: photo-1507124484497-b7f446e65519.jpg
-author: greg lobinski
+title: How to understand air brakes
+category: "How Tos"
+cover: maxicam.jpg
+author: Johnathan Coker
 ---
 
-![unsplash.com](./photo-1507124484497-b7f446e65519.jpg)
+![test](./maxicam.jpg)
 
 [The Big Oxmox](http://google.com) advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

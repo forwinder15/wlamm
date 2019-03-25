@@ -1,10 +1,10 @@
 ---
-title: There are only two ways to live your life. 
-cover: photo-1451324119451-db0ac857463c.jpg
-author: greg lobinski
+title: The best ratchet  
+cover: FHLF80AO.jpg
+author: Johnathan Coker
 ---
 
-![unsplash.com](./photo-1451324119451-db0ac857463c.jpg)
+![test](./FHLF80AO.jpg)
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur [adipiscing](/i-am-so-clever/) elit. Proin bibendum ullamcorper rutrum.
 

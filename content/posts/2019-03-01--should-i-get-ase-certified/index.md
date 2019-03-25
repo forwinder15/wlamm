@@ -1,13 +1,13 @@
 ---
-title: I have not failed. I've just found 10,000 ways that won't work
-category: "testimonies"
-cover: photo-1463852247062-1bbca38f7805.jpg
-author: greg lobinski
+title: Should I get ASE certified?
+category: "Common Questions"
+cover: ASE_large.png
+author: Johnathan Coker
 ---
 
 Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 
-![unsplash.com](./photo-1463852247062-1bbca38f7805.jpg)
+![test](./ASE_large.png)
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.
 

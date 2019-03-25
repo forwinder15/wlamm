@@ -1,12 +1,12 @@
 ---
-title: Good friends, good books, and a sleepy conscience
-cover: photo-1500531279542-fc8490c8ea4d.jpg
-author: greg lobinski
+title: The best mechanics tools for beginners 
+cover: photo-1549636367-13c144c47063.jpeg
+author: Johnathan Coker
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
 
-![unsplash.com](./photo-1500531279542-fc8490c8ea4d.jpg)
+![unsplash.com](./photo-1549636367-13c144c47063.jpeg)
 
 Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 

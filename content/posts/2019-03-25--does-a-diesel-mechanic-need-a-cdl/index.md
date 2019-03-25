@@ -1,0 +1,51 @@
+---
+title: Does a diesel mechanic need a CDL?
+category: "Common Questions"
+cover: photo-1540852360777-5f6fa7752aeb.jpeg
+author: Johnathan Coker
+---
+
+I was thinking the other day about when I started as a diesel tech and all the questions I had. Do you need a CDL (Commercial drivers license) as a diesel mechanic? I had a struggle with this when I first started working as a mechanic trainee I was not even old enough to get a CDL. I wasn't sure and really never got a great answer. 
+
+### In short, No. I would say that most diesel mechanics don't have a CDL. While a CDL will make you more of an asset to a shop it is usually not required. Now let's look into this a little further. Should you get it anyway? 
+
+
+![unsplash.com](./photo-1540852360777-5f6fa7752aeb.jpeg)
+
+### Is a CDL required? No. Would it benefit you? Yes.
+
+### Positives 
+
+* While it is not required a CDL can open doors for you. 
+* It can help your resume for sure. It is always nice for a manager to have another person who can test drive the trucks after they are finished. 
+* It also shows that you are committed to the field. 
+
+###Negatives
+
+* The cost if you have to pay for it. Here in Florida the learners is $10 the license fee is $75 and $7 for each indorsement plus the cost of a road test can be as much as $200 if not more. 
+* Unless you work for a local government you will be required to have a ***DOT physical*** every year.
+
+
+###Now not all diesel mechanics work on over the road trucks 
+but, chances are you will have the opportunity or even have to drive a large service vehicle in your career. While I worked on fire apparatus I was not technically required to have the CDL but, the city I worked for required it. 
+
+###Different situations as a mechanic
+
+* Your company pays for you to get it.
+* Your Company does not offer any help but, would like you to have it.
+* You are not yet hired and just getting started
+
+###My company pays for it
+WHy haven't you got it yet? 😉 This should be an easy decision. It benefits both you and them. even if they want you to stay after and complete the trining. Bit the bullet and do it. It shows them you care and if you move on one day you now have it in your pocket. 
+
+###Your Company does not offer any help but, would like you to have it.
+
+Basicity, ***Should I get it myself?*** This one is tough. I was lucky enough to work for a place that had a trainer and I was able to get mine and get paid for it. Not everyone is so lucky and if you are just getting into the field you may not want to invest the resources into this. If your company if willing to foot the bill to me this is a not brainer. 
+
+![test](./cdl-license.jpg)
+
+###You are not yet hired and just getting started
+I would probably not. Unless you had easy access to get it and it really wasn't a big deal for you. I say that because you need to be focused on finding a good apprenticeship or going through school. A CDL is not important enough to distract yourself with. You need to stay the course and get hired. 
+
+
+If you are thinking of going it on your own and getting it I think it will help you. I suggest studying and knocking out the learners quickly. I have seen people drag it out way to long. Just go get it done. If your working for a company with no program. Ask! You never know and your boss might appreciate the initiative. Overall a CDL is not required for a diesel mechanic but, it is beneficial. 
