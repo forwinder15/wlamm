@@ -2,4 +2,4 @@
 title: author
 ---
 
-<!-- **Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. -->
+**Johnathan Coker** is a ASE and EVT Certified Mechanic. He is married with two kids and lives in sunny Florida. He loves taking stuff apart and teaching others how he messed it up. 

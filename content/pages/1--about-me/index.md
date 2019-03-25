@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Us
 ---
 
 Howdy fellow grease monkey, I’m Johnathan. Thanks for visiting learn diesels!

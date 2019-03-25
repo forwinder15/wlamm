@@ -39,7 +39,7 @@ size:
 color:
   # color options
   neutral:
-    white: &color-white '#ffffff'
+    white: &color-white '#fafafa'
     gray:
       a: &color-gray-1 '#fafaf9'
       b: &color-gray-2 '#f3f2f2'
@@ -52,14 +52,15 @@ color:
       i: '#514f4d'
       j: &color-gray-10 '#3e3e3c'
       k: '#2b2826'
-    black: '#000000'
+    black: '#2a2a2a'
+    yellow: '#ecd018'
   brand:
-    primary: &color-brand-primary '#709425'
-    primaryActive: '#709425'
-    light: '#709425'
-    lightActive: '#709425'
-    dark: '#709425'
-    darkActive: '#709425'
+    primary: &color-brand-primary '#275DAD'
+    primaryActive: '#275DAD'
+    light: '#275DAD'
+    lightActive: '#275DAD'
+    dark: '#275DAD'
+    darkActive: '#275DAD'
   special:
     attention: &color-special-attention orange
 # FONT
@@ -97,7 +98,7 @@ time:
 
 # GENERAL TOKENS
 background:
-  color:
+  color: 
     primary: *color-white
     alt: *color-gray-1
     brand: *color-brand-primary
@@ -136,7 +137,7 @@ hero:
     size: *font-size-xxl
     color: *color-white
     lineHeight: *font-line-height-xs
-  background: 'linear-gradient(0deg, #E0306E, #6438B5)'
+  background: 'linear-gradient(0deg, #fff, #275DAD)'
 blog:
   h1:
     size: *font-size-l

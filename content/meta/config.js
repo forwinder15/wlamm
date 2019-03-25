@@ -33,7 +33,6 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/" },
     { name: "twitter", url: "https://twitter.com/johncokerdev" },
     { name: "facebook", url: "https://www.facebook.com/john.coker.75" }
   ]
