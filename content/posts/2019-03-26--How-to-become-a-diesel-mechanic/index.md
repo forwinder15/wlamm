@@ -66,12 +66,24 @@ This is how I started. I was in the trucking industry and was working on the doc
 
 The struggle is real for the mechanic trainee. Once you are taught something you are then expected to know that thing for eternity. In many cases there are evaluations on a monthly basis and your skills are put to the test on jobs by yourself. There is a certain amount of stress that goes with all this and can be difficult if you have a hard time under pressure. But, it also depends o the culture of the particular shop you get a job in.
 
+Most mechanics do not double as teachers. Some will even resent having to teach you. I heard a lot of "that's not in my job description" talk when I was in it but, worse for those I seen walk through it after me. It can depend on your attitude also. You have to be very humble and never assume or think you know more than the mechanic. You have to be a teachable person. If you are a corrector or do not like to take advice oh boy maybe not the path for you. One of the most important things if you find yourself in this role is to follow the steps instructed to you. *If your boss says "do it this way" Don't try to find a better way!* Do it his way. Later whe your experienced you can try those things. Whether or not you can handle this well will be a major factor in your success with this path.
+
+#The breakdown
+
+- Great employers offer this (Cummins, Cat, Trucking Companies, Local Governments)
+- Fast door into Diesel mechanics
+- Get paid while you learn
+- Average apprenticeship pays around $17 an hour
+- Can be stressful 
 
 
-## Diesel mechanic outlook
-Info from [US labor bureau](https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm#tab-5)
 
-Employment of diesel service technicians and mechanics is projected to grow 9 percent from 2016 to 2026
+![unsplash.com](./photo-1530046339160-ce3e530c7d2f.jpeg)
+
+## Is it worth it?
+
+# Diesel mechanic outlook
+Info from [US labor bureau](https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm#tab-5) Employment of diesel service technicians and mechanics is projected to grow 9 percent from 2016 to 2026
 
 #Average pay breakdown
 - Local government, excluding education and hospitals	$54,490
@@ -81,12 +93,10 @@ Employment of diesel service technicians and mechanics is projected to grow 9 pe
 
 *The median annual wage for diesel service technicians and mechanics was $46,360*
 
-In My experience this is pretty close. maybe a higher Depending on where you live and certifications your have.
-
-
+In My experience this is pretty close. Maybe higher Depending on where you live and certifications your have. Benefits like health insurance, time off, holidays, uniforms, tool allowance, 401k will vary greatly depending on your employer. Always keep this in mind when looking. If you are young these things might not seem important but, I guarantee you they are. Weigh these things when considering a position. 
 
 
 ## "The secret of getting ahead is getting started." - ***Mark Twain*** 
 
+No matter what path you take there will be challenges. But, how you handle those challenges will determine whether or not you will succeed in becoming a diesel mechanic. You can do it! And one of these paths can get you there. the only question you need to ask yourself is which would suit me and my situation. Being a diesel mechanic is rewarding and often a fun job. I hope each one you takes the steps to becoming great techs in the future. Good luck! 
 
-![unsplash.com](./photo-1530046339160-ce3e530c7d2f.jpeg)
