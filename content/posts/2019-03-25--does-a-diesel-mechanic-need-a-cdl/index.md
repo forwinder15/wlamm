@@ -36,16 +36,31 @@ but, chances are you will have the opportunity or even have to drive a large ser
 * You are not yet hired and just getting started
 
 ###My company pays for it
-WHy haven't you got it yet? 😉 This should be an easy decision. It benefits both you and them. even if they want you to stay after and complete the trining. Bit the bullet and do it. It shows them you care and if you move on one day you now have it in your pocket. 
+Why haven't you got it yet? 😉 This should be an easy decision. It benefits both you and them. even if they want you to stay after and complete the trining. Bit the bullet and do it. It shows them you care and if you move on one day you now have it in your pocket. 
 
 ###Your Company does not offer any help but, would like you to have it.
 
-Basicity, ***Should I get it myself?*** This one is tough. I was lucky enough to work for a place that had a trainer and I was able to get mine and get paid for it. Not everyone is so lucky and if you are just getting into the field you may not want to invest the resources into this. If your company if willing to foot the bill to me this is a not brainer. 
+Basically, ***Should I get it myself?*** This one is tough. I was lucky enough to work for a place that had a trainer and I was able to get mine and get paid for it. Not everyone is so lucky and if you are just getting into the field you may not want to invest the resources into this. If your company if willing to foot the bill to me this is a not brainer. 
 
 ![test](./cdl-license.jpg)
 
 ###You are not yet hired and just getting started
 I would probably not. Unless you had easy access to get it and it really wasn't a big deal for you. I say that because you need to be focused on finding a good apprenticeship or going through school. A CDL is not important enough to distract yourself with. You need to stay the course and get hired. 
+
+###Ok, your gonna get your CDL. Here is how to it in 4 steps.
+The requirements to get a CDL are moderately different from each state, but these 4 steps are a guideline on what to expect. For more on the specific steps, got to your states specific dmv webpage.
+
+**1. Check out the CDL requirements**
+For starters, you should review the CDL Requirements section of the manual to determine if you will qualify for a CDL. Some of these requirements include a minimum age and certain health requirements.  Meeting these will make sure things go smoothly throughout the entire process of applying for your CDL.
+
+**2. Get your CDL learners permit**
+Just like getting a regular driver's license, a permit is required to move forward in obtaining a CDL. You can get a CDL permit by passing a test. In most states, the tests to get a Class A CDL permit include: General Knowledge, Air Brakes and Combination vehicles. Gra a Commercial Driver's License handbook or manual online from your states dmv website.
+
+**3. ADD CDL ENDORSEMENTS**
+Depending on the CDL endorsement you want to obtain, you need to pass the test.  However, some endorsements, such as the Hazardous Materials (HazMat) endorsement may also require a background check before they can be added to your CDL license. You may only need a class B if you dont plan on driving tankers or pulling trailers. You definitely want air brakes. Take a look at the CDL endorsements section of the manual for additional information.
+
+**4. Take the CDL skills test**
+The CDL driving test must be passed in which the driver completes a 3-part exam that includes a pre-trip inspection test, basic control skills test, and driving test at either a state CDL test site or approved 3rd party test site in the testing state.  Once the skills test has been passed you do it! Now go print that puppy out and your good to go.     
 
 
 If you are thinking of going it on your own and getting it I think it will help you. I suggest studying and knocking out the learners quickly. I have seen people drag it out way to long. Just go get it done. If your working for a company with no program. Ask! You never know and your boss might appreciate the initiative. Overall a CDL is not required for a diesel mechanic but, it is beneficial. 
