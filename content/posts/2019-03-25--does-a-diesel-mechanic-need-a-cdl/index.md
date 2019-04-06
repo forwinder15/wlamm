@@ -7,6 +7,8 @@ author: Johnathan Coker
 
 I was thinking the other day about when I started as a diesel tech and all the questions I had. Do you need a CDL (Commercial drivers license) as a diesel mechanic? I had a struggle with this when I first started working as a mechanic trainee I was not even old enough to get a CDL. I wasn't sure and really never got a great answer. 
 
+Note: ***You must have a CDL to drive a semi on the road. Even with no trailer (bob tailing).***
+
 ### In short, No. I would say that most diesel mechanics don't have a CDL. While a CDL will make you more of an asset to a shop it is usually not required. Now let's look into this a little further. Should you get it anyway? 
 
 
