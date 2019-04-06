@@ -7,13 +7,10 @@ import { FaUser } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
 
 const Meta = props => {
-  const { prefix, author: authorName, category, theme } = props;
+  const { author: authorName, category, theme } = props;
 
   return (
     <p className="meta">
-      <span>
-        <FaCalendar size={18} /> {prefix}
-      </span>
       <span>
         <FaUser size={18} /> {authorName}
       </span>

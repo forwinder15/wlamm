@@ -1,5 +1,4 @@
 import { FaArrowRight } from "react-icons/fa/";
-import { FaCalendar } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
 import { FaUser } from "react-icons/fa/";
 import Img from "gatsby-image";
@@ -35,9 +34,6 @@ const Item = props => {
             {title} <FaArrowRight className="arrow" />
           </h1>
           <p className="meta">
-            <span>
-              <FaCalendar size={18} /> {prefix}
-            </span>
             <span>
               <FaUser size={18} /> {author}
             </span>

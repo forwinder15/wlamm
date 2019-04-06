@@ -38,7 +38,7 @@ Another contested point. There usually is a pay increase that goes with the cert
 
 ### Take it from a guy who has a few
 
-They are worth it. Overall we complain about them and the money they cost and the hassle but, face the music they are a good investment. Mine have paid for the time, money and hassle 10000x over. 
+They are worth it. Overall we complain about them, the money they cost and the hassle but, face the music they are a good investment. Mine have paid for the time, money and hassle 10000x over. 
 
 ### Ok John you convinced me, how do I get them?
 
