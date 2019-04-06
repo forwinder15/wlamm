@@ -1,7 +1,7 @@
 ---
 title: How to become a diesel mechanic
 category: "How Tos"
-cover: photo-1530046339160-ce3e530c7d2f.jpeg
+cover: 2017-271_CareersTechBanners_v01_0.jpg
 author: Johnathan Coker
 ---
 
@@ -77,8 +77,24 @@ Most mechanics do not double as teachers. Some will even resent having to teach 
 - Can be stressful 
 
 
+## The military path
 
-![unsplash.com](./photo-1530046339160-ce3e530c7d2f.jpeg)
+Want to learn and make a difference for your country? The military is a great way to get started in or make a career in diesel mechanics. There are many benefits to this path. Let's take a look.
+
+-  **The ASVAB.** The military is also more likely to place you in this job if you are apt to mechanics. That is a great thing. The ASVAB can point out if you have the abilities needed to succeed in mechanics and help avoid the headache of learning after all the training that you hate it. 
+
+![military](./0021.00.jpg)
+
+- **You get unparalleled training and apprenticeship.** The military offers great training Depending on your unit you may not be exposed the the *latest* technology but, you will learn the fundamentals. 
+
+- **Get paid.** While it is not much. You are paid while you learn.
+
+- **Military preference.**All employers will give preference to someone with military experience. I think the degree of preference varies by the hiring manager but, you should always be considered over someone with comparable experience. 
+
+-**Things to remember.** This is at least a four year commitment. You can make an entire career out of being in the military with lots of benefits. The "real" world is not often the same as military work. It is easy to get used to the uncompromising rules and regs of the military. The laxness of some shops can be frustrating for someone who has been used to the military way. 
+
+
+****
 
 ## Is it worth it?
 
@@ -98,5 +114,5 @@ In My experience this is pretty close. Maybe higher Depending on where you live 
 
 ## "The secret of getting ahead is getting started." - ***Mark Twain*** 
 
-No matter what path you take there will be challenges. But, how you handle those challenges will determine whether or not you will succeed in becoming a diesel mechanic. You can do it! And one of these paths can get you there. the only question you need to ask yourself is which would suit me and my situation. Being a diesel mechanic is rewarding and often a fun job. I hope each one you takes the steps to becoming great techs in the future. Good luck! 
+No matter what path you take there will be challenges. How you handle those challenges will determine whether or not you will succeed in becoming a diesel mechanic. You can do it! And one of these paths can get you there. the only question you need to ask yourself is which would suit me and my situation. Being a diesel mechanic is rewarding and often a fun job. I hope each one you takes the steps to becoming great techs in the future. Good luck! 
 
