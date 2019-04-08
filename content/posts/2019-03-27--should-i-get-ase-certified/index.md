@@ -1,5 +1,5 @@
 ---
-title: Should I get ASE certified?
+title: Should I Get ASE Certified?
 category: "Common Questions"
 cover: ASE_large.png
 author: Johnathan Coker

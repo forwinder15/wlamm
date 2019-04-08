@@ -1,5 +1,5 @@
 ---
-title: Are air brakes better?
+title: Are Air Brakes Better?
 category: "Common Questions"
 cover: maxicam.jpg
 author: Johnathan Coker 
