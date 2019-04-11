@@ -17,11 +17,11 @@ Flat rate work stinks. O, wait... let me tell you what flat rate is first.
 
 Flat rate pay is when a mechanic is paid by the number of hours **billed** (or book hours) of a job regardless of how long it takes them. So, for example, you have a set of brakes that the book says take 2 hours to replace. That is how many hours you get paid to do the job. No matter wether it actually takes 15 minutes or 15 hours. 
 
-Most people in the industry agree that flat rate pay is a huge rip off for the mechanic. Let me give you 4 reasons why. 
+Most people in the industry agree that flat rate pay is a huge rip off for the mechanic. Let me give you 5 reasons why. 
 
 
 
-## 4 reasons flat rate pay sucks
+## 5 reasons flat rate pay sucks
 
 1. **Employer wins every time**
 
@@ -44,7 +44,9 @@ With knowing that you can make hardly nothing on those slow days you really have
 - On your mood: Lack of motivation, Feeling overwhelmed, Sadness or depression, Anxiety	
 Don't take years of your life. Find a hourly job wear you work with a team. 
 
-5. **Speed kills**
+
+5. **Speed kills** 
+
  Mechanic work is not easy work anyway and when you try to go fast mistakes are made, injuries happen and knuckles are smashed. When you feel like you wage is totally dependant on your speed you can't help but try to hurry through things. This inevitably adds to the stress and you miss things which ultimately cause you to take longer on jobs. It is a viscous cycle. 
 
  ****
