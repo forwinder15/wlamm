@@ -4,12 +4,12 @@ category: "Common Questions"
 cover: ASE_large.png
 author: Johnathan Coker
 ---
+![test](./ASE_large.png)
 
 This is a hotly contested subject among mechanics. I have had this conversation many times with my peers. I know there are other opinions so, take mine as someone who has been on both sides of the argument. Should you get ASE certified to be a diesel mechanic? Or any other mechanic for that matter.
 
 **Yes, It will only help you in your journey and solidify your skills as a mechanic. Plus most companies will give you a little pay bump. Let's look at the reasons why you should and how to go about getting some.**
 
-![test](./ASE_large.png)
 
 Someone is screaming at the screen right now saying, *"Anyone can take a test, ASE proves nothing but your testing ability"*. They have a solid point. I have worked with "master" certified people who where not good mechanics. Some that needed help on every job and every diagnosis. So, if that is possible, **why get them at all?** I mean aren't they kind of pointless if someone can just study the book and go pass the test?
 
