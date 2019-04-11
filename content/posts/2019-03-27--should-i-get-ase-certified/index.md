@@ -43,17 +43,24 @@ They are worth it. Overall we complain about them, the money they cost and the h
 ### Ok John you convinced me, how do I get them?
 
 **1. Great question! So, first you need 2 "verifiable" years experience.** 
+
 That means you create a MyASE account and put in the company you work for and they send an email (maybe) to verify you have those years of experience. Honesty is the best policy here. If you don't have two years yet (yes, school counts) than wait it out. 
 
 **2. You are going to need to Study**
-Pick the tests you think you will be most successful in and buy the books and study. 
+
+Pick the tests you think you will be most successful in and buy the books and study. Most people start with brakes or air conditioning. It tends to be the easiest for beginners. Here is a link to the study guide for brakes on Amazon -[T4 Brakes guide](https://www.amazon.com/gp/product/1111129002/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1111129002&linkCode=as2&tag=learndiesels-20&linkId=b4b25624f4e489bc5a147b40f7f9923b)- [T8 AC guide](https://www.amazon.com/gp/product/1111129037/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1111129037&linkCode=as2&tag=learndiesels-20&linkId=76f415bb31d70fe9860c823a37c7a01a). Everyone is different though so, you may have more success on another test. This is all the guides, [ASE study guide Bundle](https://www.amazon.com/gp/product/1934855448/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934855448&linkCode=as2&tag=learndiesels-20&linkId=e574a887d540ec05fc635a914986cc5d) for some help getting started.
+
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/1934855448/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934855448&linkCode=as2&tag=learndiesels-20&linkId=a3d7fbb117d5915a13bc7a7f068c8acf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1934855448&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=learndiesels-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=learndiesels-20&l=am2&o=1&a=1934855448" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 **3. Make an appointment**
-Easily done through the website.
+
+Easily done through the website. Do that [here](https://www.ase.com/Tests/ASE-Certification-Tests/Register-Now.aspx)
 
 **4. Go take it!**
-Be ready for a strip search. They aren't playing around. The test is usually done where they also do tests for medical school, nursing, dentistry, insurance and all kinds of stuff. Most of those places take it very seriously. **Do not write answers on you hand or hide a piece of paper** They will kick you out. Nothing is going in with you excerpt your mind. After an average of 50 minutes of torture it's over and you know right away if you passed it or not.(Which makes for a long ride home if you didn't).
 
+Be ready for a strip search. They aren't playing around. The test is usually done where they also do tests for medical school, nursing, dentistry, insurance and all kinds of stuff. Most of those places take it very seriously. **Do not write answers on you hand or hide a piece of paper**. They will kick you out. The only thing going in to that room with you is your mind 🧠. After an average of 50 minutes of torture it's over and you know right away if you passed it or not.(Which makes for a long ride home if you didn't).
 
 
 
