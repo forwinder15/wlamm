@@ -5,9 +5,9 @@ cover: 2017-271_CareersTechBanners_v01_0.jpg
 author: Johnathan Coker
 ---
 
-Diesel mechanics are in huge demand. With this demand the wages have been steadily rising. Now is a great time to get into the industry. 
+Diesel mechanics are in huge demand. With this demand the wages have been steadily rising. Now is a great time to get into the industry. This article will show you a few paths to becoming a diesel mechanic. 
 
-When I first started in the diesel world I had no idea the amount of knowledge I needed to have to be a great mechanic. I only knew that it looked like fun and I enjoyed taking stuff apart ***(with an emphasis on apart not putting back together)*** but, there was no way for me to know the best way to make it happen. That is why I am going to lay it all out there for you! How do you go from bag-boy to diesel tech, waiter to wrencher, zoo keeper to grease monkey...alright thats enough of that. Let's dive in. 
+When I first started in the diesel world I had no idea the amount of knowledge I needed to have to be a great mechanic. I only knew that it looked like fun and I enjoyed taking stuff apart ***(with an emphasis on apart not putting back together)*** but, there was no way for me to know the *best way* to make it happen. That is why I am going to lay it all out there for you! How do you go from bag-boy to diesel tech, waiter to wrencher, zoo keeper to grease monkey...alright thats enough of that. Let's dive in. 
 
 ## "Do, or do not. There is no try”. – Yoda
 

@@ -7,7 +7,7 @@ author: Johnathan Coker
 
 This is a hotly contested subject among mechanics. I have had this conversation many times with my peers. I know there are other opinions so, take mine as someone who has been on both sides of the argument. Should you get ASE certified to be a diesel mechanic? Or any other mechanic for that matter.
 
-***Yes, It will only help you in your journey and solidify your skills as a mechanic. Plus most companies will give you a little pay bump. Let's look at the reasons why you should and how to go about getting some.*** 
+**Yes, It will only help you in your journey and solidify your skills as a mechanic. Plus most companies will give you a little pay bump. Let's look at the reasons why you should and how to go about getting some.**
 
 ![test](./ASE_large.png)
 
