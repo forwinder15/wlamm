@@ -9,7 +9,7 @@ author: Johnathan Coker
 
 So, you have some white smoke billowing out of your exhaust. What is the cause. Maybe your like me and have to look it up every time. No shame here. This is the complete guide to white smoke from a diesel.   
 
-**White smoke occurs for one of three reasons 1. Raw diesel comes through the exhaust completely unburned 2. Water entering combustion chamber. 3. Deposits around piston rings or cylinder glazing. Now, let's look at three scenarios. Here is how to read the smoke...** 
+**White smoke occurs for one of three reasons 1. Raw diesel comes through the exhaust completely unburned 2. Water entering combustion chamber. 3. The temperature in the combustion chamber is too low. Now, let's look at three scenarios. Here is how to read the smoke...** 
 
 ## 1. White smoke on a cold start, and then it disappears as the engine warms up
 
