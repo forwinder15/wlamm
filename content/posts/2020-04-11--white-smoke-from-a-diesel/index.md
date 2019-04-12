@@ -9,7 +9,7 @@ author: Johnathan Coker
 
 So, you have some white smoke billowing out of your exhaust. What is the cause. Maybe your like me and have to look it up every time. No shame here. This is the complete guide to white smoke from a diesel.   
 
-**White smoke occurs in three scenarios 1. Raw diesel comes through the exhaust completely unburned 2. Water entering combustion chamber. 3. Deposits around piston rings or cylinder glazing. Here is how to tell the difference...** 
+**White smoke occurs for one of three reasons 1. Raw diesel comes through the exhaust completely unburned 2. Water entering combustion chamber. 3. Deposits around piston rings or cylinder glazing. Now, let's look at three scenarios. Here is how to read the smoke...** 
 
 ## 1. White smoke on a cold start, and then it disappears as the engine warms up
 
@@ -22,7 +22,7 @@ If it lasts a few minutes after the engine is started and there is a **rich dies
 
 - Faulty injectors - stuck open
 - Worn piston rings or cylinder glazing
-- If equipped with glow plugs could be faulty plugs or module
+- If equipped with glow plugs could be faulty plugs or module 
 
 
 Remember, if you have an older engine with really low compression and bad timing or low injection pressure, you are more likely to have white smoke.
@@ -60,7 +60,7 @@ This is a steady stream of a lighter white smoke. Can even be a random but, ofte
 ##***Important note for modern diesel engines***
 
 
-**Modern diesels are designed to deliberately to over-fuel the engine (or just one cylinder) for brief periods in order to create heat to burn carbon off of the Diesel Particulate Filter or DPF. If this over-fuelling is not operating properly it can cause white smoke and damage to the engine.**
+**Modern diesels are designed to deliberately over-fuel the engine (or just one cylinder) for brief periods in order to create heat to burn carbon off of the Diesel Particulate Filter or DPF. If this over-fuelling operation is not operating properly it can cause white smoke and damage to the engine.**
 
 
 ****
