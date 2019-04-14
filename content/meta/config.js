@@ -8,6 +8,9 @@ module.exports = {
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
+  name: "msvalidate.01",
+  content: "17E3A9A27963C3889459D03DA4268BA3",
+
   /* author */
   authorName: "Johnathan Coker",
   authorTwitterAccount: "johncokerdev",
