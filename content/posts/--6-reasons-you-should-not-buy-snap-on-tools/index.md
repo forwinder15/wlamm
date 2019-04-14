@@ -1,10 +1,10 @@
 ---
 title: 6 Reasons You Should Not Buy Snap-On Tools
 category: "Advice"
-cover: 2017-271_CareersTechBanners_v01_0.jpg
+cover: 0021.00.jpg
 author: Johnathan Coker
 ---
-![test](./yoda-1024x681.webp)
+
 
 ## "Do, or do not. There is no try”. – Yoda
 

@@ -25,6 +25,7 @@ const Seo = props => {
       {/* General tags */}
       <title>{title}</title>
       <meta name="description" content={description} />
+      <meta name="msvalidate.01" content="17E3A9A27963C3889459D03DA4268BA3" />
       {/* OpenGraph tags */}
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
