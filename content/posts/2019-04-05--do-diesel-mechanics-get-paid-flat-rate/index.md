@@ -5,9 +5,9 @@ cover: monop.png
 author: Johnathan Coker
 ---
 
-So, your looking at jobs. You see a company that says it pays flat rate to it's mechanics. Is that a deal? What is flat rate? Do all mechanics make flat rate? Before I answer all those questions, let's look at - do diesel mechanics make flat rate...
+So, your looking at jobs. You see a company that says it pays flat rate to it's mechanics. Is that a deal? What is flat rate? Do all mechanics make flat rate? Let's dive into that.
 
-**No. Most diesel mechanics are payed hourly. There may be exceptions but, the majority are not flat rate. Flat rate is usually given at dealerships and other small "car" shops. Let's look at what flat rate is, why it sucks and why you should never work anywhere that has that pay structure.**
+Do diesel mechanics make flat rate? **No. Most diesel mechanics are payed hourly. There may be exceptions but, the majority are not flat rate. Flat rate is usually given at dealerships and other small "car" shops. Let's look at what flat rate is, why it sucks and why you should never work anywhere that has that pay structure.**
 
 Flat rate work stinks. O, wait... let me tell you what flat rate is first. 
 

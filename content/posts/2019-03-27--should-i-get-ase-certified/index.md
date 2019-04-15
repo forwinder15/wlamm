@@ -8,7 +8,7 @@ author: Johnathan Coker
 
 This is a hotly contested subject among mechanics. I have had this conversation many times with my peers. I know there are other opinions so, take mine as someone who has been on both sides of the argument. Should you get ASE certified to be a diesel mechanic? Or any other mechanic for that matter.
 
-**Yes, It will only help you in your journey and solidify your skills as a mechanic. Plus most companies will give you a little pay bump. Let's look at the reasons why you should and how to go about getting some.**
+Should a Diesel Mechanic get ASE certified? **Yes, It will only help you in your journey and solidify your skills as a mechanic. Plus most companies will give you a little pay bump. Let's look at the reasons why you should and how to go about getting some.**
 
 
 Someone is screaming at the screen right now saying, *"Anyone can take a test, ASE proves nothing but your testing ability"*. They have a solid point. I have worked with "master" certified people who where not good mechanics. Some that needed help on every job and every diagnosis. So, if that is possible, **why get them at all?** I mean aren't they kind of pointless if someone can just study the book and go pass the test?
@@ -49,9 +49,6 @@ That means you create a MyASE account and put in the company you work for and th
 **2. You are going to need to Study**
 
 Pick the tests you think you will be most successful in and buy the books and study. Most people start with brakes or air conditioning. It tends to be the easiest for beginners. Here is a link to the study guide for brakes on Amazon -[T4 Brakes guide](https://www.amazon.com/gp/product/1111129002/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1111129002&linkCode=as2&tag=learndiesels-20&linkId=b4b25624f4e489bc5a147b40f7f9923b)- [T8 AC guide](https://www.amazon.com/gp/product/1111129037/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1111129037&linkCode=as2&tag=learndiesels-20&linkId=76f415bb31d70fe9860c823a37c7a01a). Everyone is different though so, you may have more success on another test. This is all the guides, [ASE study guide Bundle](https://www.amazon.com/gp/product/1934855448/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934855448&linkCode=as2&tag=learndiesels-20&linkId=e574a887d540ec05fc635a914986cc5d) for some help getting started.
-
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/1934855448/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1934855448&linkCode=as2&tag=learndiesels-20&linkId=a3d7fbb117d5915a13bc7a7f068c8acf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1934855448&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=learndiesels-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=learndiesels-20&l=am2&o=1&a=1934855448" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 **3. Make an appointment**
