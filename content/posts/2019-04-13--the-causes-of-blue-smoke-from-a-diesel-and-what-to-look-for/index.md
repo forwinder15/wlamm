@@ -58,7 +58,7 @@ Make sure the level is correct and there is no smell 👃 of fuel in the oil. Ma
 
 It is the tube from the turbo charger to the intercooler. Look for signs of oil. It will be wet or have some residue in the inside of the pipe. 
 
-5. Check the crankcase breather for obtructions.
+3. Check the crankcase breather for obstructions.
 
 Look at the blow-by tube and breather filter element (if equipped).
 
