@@ -102,7 +102,7 @@ Check it out [Here](https://cummins-apprenticeship.jobs/henderson-co/technician-
 
 ###4. Ryder - Technician trainee
 
-**So your basically a lube guy in this spot. Not a bad way to start. It really helps when learning all the different components of a truck. (That is one the most important parts) I think this could be a decent opportunity if Ryder is in your area.**
+**So you are basically a lube guy in this spot. Not a bad way to start. It really helps when learning all the different components of a truck. (That is one the most important parts) I think this could be a decent opportunity if Ryder is in your area.**
 
 QUALIFICATIONS 
 

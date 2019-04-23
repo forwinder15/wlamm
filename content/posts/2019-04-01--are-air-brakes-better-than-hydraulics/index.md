@@ -79,9 +79,9 @@ Air brakes are also effective even with a considerable leak, so an air brake sys
 
 You may not know it but, air brakes also have a great advantage in the area of maintenance. There are several reasons for this. 
 
-- First, air line couplings are easier to attach and detach than hydraulic lines. You can snatch one off into no time and the best part there is no mess. Hydraulic fluid is a mess. It gets everywhere and everything and then your at home having a sandwich. What's that taste? You guessed it, hydraulic fluid(I prefer a 2015 DOT 3 🍷).
+- First, air line couplings are easier to attach and detach than hydraulic lines. You can snatch one off into no time and the best part there is no mess. Hydraulic fluid is a mess. It gets everywhere and in everything and then you are at home having a sandwich. What's that taste? You guessed it, hydraulic fluid(I prefer a 2015 DOT 3 🍷).
 
-- Second, the risk of air getting into hydraulic fluid is eliminated, as is the need to bleed brakes when they are serviced. Pumping brakes alone if a tough gig. Can be seriously frustrating and take quite a bit of time. Have a friend helping? Worse 😆. With air brakes depending on whether your drum or disc set up you just run the adjustment all the way down and then back it off per the manufacture specs. Simple.
+- Second, the risk of air getting into hydraulic fluid is eliminated, as is the need to bleed brakes when they are serviced. Pumping brakes alone if a tough gig. Can be seriously frustrating and take quite a bit of time. Have a friend helping? Worse 😆. With air brakes depending on whether you have drum or disc set up you just run the adjustment all the way down and then back it off per the manufacture specs. Simple.
 
 - Third, air brake circuits on trailers can be easily attached and removed. This takes away that pain point of trailer brakes. It's no trouble to add a trailer and have the same superior braking power unlike hydraulic where they are often electric or non-existent. 
 

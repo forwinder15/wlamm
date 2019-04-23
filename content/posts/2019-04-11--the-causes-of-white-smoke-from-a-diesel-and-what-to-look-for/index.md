@@ -7,9 +7,9 @@ author: Johnathan Coker
 
 ![unsplash.com](./ElD2Y4.gif)
 
-So, you have some white smoke billowing out of your exhaust. What is the cause. Maybe your like me and have to look it up every time. No shame here. This is the complete guide to white smoke from a diesel.   
+So, you have some white smoke billowing out of your exhaust. What is the cause. Maybe you are like me and have to look it up every time. No shame here. This is the complete guide to white smoke from a diesel.   
 
-What causes white smoke from a diesel? **White smoke occurs for one of three reasons 1. Raw diesel comes through the exhaust completely unburned 2. Water entering combustion chamber. 3. The temperature in the combustion chamber is too low. Now, let's look at three scenarios. Whats is wrong really depends on the "type" of white smoke you have. Here is how to read the smoke...** 
+What causes white smoke from a diesel? **White smoke occurs for one of three reasons 1. Raw diesel comes through the exhaust completely unburned 2. Water entering combustion chamber. 3. The temperature in the combustion chamber is too low. Now, let's look at three scenarios. What is wrong really depends on the "type" of white smoke you have. Here is how to read the smoke...** 
 
 ## 1. White smoke on a cold start, and then it disappears as the engine warms up
 
@@ -33,15 +33,15 @@ Remember, if you have an older engine with really low compression and bad timing
 
 ##2. A thick cloud a white smoke
 
-Red alert 🚨 This is the danger zone. Water or coolant can cause white smoke from a diesel as well. This is a symptom of a bad problem. You are getting coolant or water in the combustion chamber and If you know anything about compressing water you know this is no going to end well. Spoiler - water does not compress. So, if you have this problem be careful running it for any period of time. Once your sure its water stop and fix it. 
+Red alert 🚨 This is the danger zone. Water or coolant can cause white smoke from a diesel as well. This is a symptom of a bad problem. You are getting coolant or water in the combustion chamber and If you know anything about compressing water you know this is no going to end well. Spoiler - water does not compress. So, if you have this problem be careful running it for any period of time. Once you are sure its water stop and fix it. 
 
-This will be a steady stream a smoke after start up. Usually you will see the smoke will be a "thick" smoke (Like in the gif at the top of the page). It will also be noted by a sweet 🍫 smell. Some likely causes include, 
+This will be a steady stream a smoke after starting up. Usually you will see the smoke will be a "thick" smoke (Like in the gif at the top of the page). It will also be noted by a sweet 🍫 smell. Some likely causes include, 
 
 - Blown head gasket 
 - Cracked block or head
 - Contaminated fuel
 
-Remember, significant damage wil occur if you run the engine with water in the combustion chamber. 
+Remember, significant damage will occur if you run the engine with water in the combustion chamber. 
 
 ##3. Continuous "light" white smoke
 
@@ -60,13 +60,13 @@ This is a steady stream of a lighter white smoke. Can even be a random but, ofte
 ##***Important note for modern diesel engines***
 
 
-**Modern diesels are designed to deliberately over-fuel the engine (or just one cylinder) for brief periods in order to create heat to burn carbon off of the Diesel Particulate Filter or DPF. If this over-fuelling operation is not operating properly it can cause white smoke and damage to the engine.**
+**Modern diesels are designed to deliberately over-fuel the engine (or just one cylinder) for brief periods in order to create heat to burn carbon off of the Diesel Particulate Filter or DPF. If this over-fueling operation is not operating properly it can cause white smoke and damage to the engine.**
 
 
 ****
 
 ##Summing up
 
-White smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be carful to think about whats going on before you act. The damages that can occur from the problems denoted by white smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs.  
+White smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by white smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs.  
 
 ***See something I missed? Help me make it better, comment below. Thanks!***
