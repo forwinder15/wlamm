@@ -70,3 +70,11 @@ This is a steady stream of a lighter white smoke. Can even be a random but, ofte
 White smoke can be difficult to diagnose but, if you follow the signs and look at the simple things first you can get to your answer fairly quickly. As with any repair be careful to think about what's going on before you act. The damages that can occur from the problems denoted by white smoke can be catastrophic but, if you can catch it early you can likely avoid even more costly repairs.  
 
 ***See something I missed? Help me make it better, comment below. Thanks!***
+
+##Related Questions
+
+####Can bad fuel cause white smoke?
+Yes. If the fuel is contaminated with water or some other foreign material it is possible that it will produce white smoke. The best way to test the fuel is to pull the filter and put it in a clear glass. Wait a few minutes and see if there is any separation. 
+
+####Can air in fuel cause white smoke?
+Yes. This is another common cause of white smoke. Check all the lines and injector supply lines to see if there is anything loose. 
