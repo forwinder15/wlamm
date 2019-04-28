@@ -40,6 +40,7 @@ This will be a steady stream a smoke after starting up. Usually you will see the
 - Blown head gasket 
 - Cracked block or head
 - Contaminated fuel
+- leaking Oil cooler (Through most of the time the oil passes into the coolant)
 
 Remember, significant damage will occur if you run the engine with water in the combustion chamber. 
 
