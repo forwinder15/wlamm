@@ -13,7 +13,7 @@ Why would a diesel have blue smoke? **Blue smoke only occurs for one reason, exc
 
 ## 1. Is it really blue?
 
-Spotting blue smoke can be difficult if you don't know what to look for. The "blue" color is often faint. You should be able to see a blue haze to an overall "grey" kind of smoke. You can often smell 👃 the difference. Oil smoke has a distinct smell, like an asphalt parking lot or roofing tar on a hot day. If it is blue, I should say that ***blue smoke should not be happing anytime.*** It is evidence of a problem and should be investigated. I have seen some dismiss it as normal. No amount of blue smoke is normal. A new engine may burn oil without any evidence of blue smoke because of the good compression it can burn oil cleanly. However, it is not acceptable for any engine to burn large amounts of lubricating oil.
+Spotting blue smoke can be difficult if you don't know what to look for. The "blue" color is often faint. You should be able to see a blue haze to an overall "grey" kind of smoke. You can often smell 👃 the difference. Oil smoke has a distinct smell, like an asphalt parking lot or roofing tar on a hot day. If it is blue, I should say that ***blue smoke should not be happening at anytime.*** It is evidence of a problem and should be investigated. I have seen some dismiss it as normal. No amount of blue smoke is normal. A new engine may burn oil without any evidence of blue smoke because of the good compression it can burn oil cleanly. However, it is not acceptable for any engine to burn large amounts of lubricating oil.
 
 
 ![engine](./engine.gif)
