@@ -1,24 +1,23 @@
 module.exports = {
-  siteTitle: "Learn Diesels", // <title>
-  shortSiteTitle: "Learn Diesels", // <title> ending for posts and pages
-  siteDescription:
-    "A website for Learning how to become a diesel mechanic and common questions when learning",
-  siteUrl: "https://learndiesels.com",
+  siteTitle: "Walk Like A Man Ministries", // <title>
+  shortSiteTitle: "Walk Like A Man Ministries", // <title> ending for posts and pages
+  siteDescription: "Walk like a man ministries",
+  siteUrl: "https://wlamm.org",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "Johnathan Coker",
+  authorName: "Jason Coker",
   authorTwitterAccount: "johncokerdev",
 
   /* info */
-  headerTitle: "Learn Diesels",
-  headerSubTitle: "Grease Monkeys Unite!",
+  headerTitle: "Walk Like A Man Ministries",
+  headerSubTitle: "Repent | Reclaim | Relate",
 
   /* manifest.json */
-  manifestName: "Welcome! Get started learning",
-  manifestShortName: "DieselBlog", // max 12 characters
+  manifestName: "Welcome! ",
+  manifestShortName: "wlamm", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#777",
